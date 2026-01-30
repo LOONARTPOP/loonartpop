@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá, eu sou Victória Carvalho! 👋
 
-<!--
-**LOONARTPOP/loonartpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** e apaixonada por criar soluções reais através da tecnologia. Atualmente, estou focada em desenvolvimento Front-end e UX/UI.
 
-Here are some ideas to get you started:
+🔭 **Projeto Atual:**
+Desenvolvedora e mantenedora do site oficial da **Ciranda Vila de Ega**.
+- Otimizei a performance do site (Lighthouse Score 90+).
+- Implementei acessibilidade (VLibras).
+- Criei automações para inscrição de brincantes via WhatsApp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tecnologias que utilizo:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+📫 **Entre em contato:**
+- [Email](mailto:victoriabacelarc@gmail.com)
